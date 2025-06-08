@@ -6,3 +6,7 @@ def num():
 
 num()
 print("good job")
+def hello():
+    print(hello)
+    name = input("What's your name")
+    print("hello" + name)
